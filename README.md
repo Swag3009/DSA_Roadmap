@@ -1,7 +1,7 @@
 
 # DSA_Roadmap
 
-### Arrays & Strings
+## Arrays & Strings
 
    @ Basic Array And Strings Questions
 
