@@ -13,27 +13,27 @@
 
    @ Two pointers
 
-### Multidimensional Arrays
+## Multidimensional Arrays
 
    @ Traversal Based Problems
 
    @ Rotaion Based Problems
 
-### Recursion And Backtracking
+## Recursion And Backtracking
 
    @ Basic Recursion Questions
 
    @ Divide And Conquer
 
-### Sorting Algorithm
+## Sorting Algorithm
 
-### Binary Search Applications 
+## Binary Search Applications 
 
    @ Binary Search On Arrays
 
    @ Binary Search On Matrix
 
-### Linked Lists
+## Linked Lists
 
    @ Reversal Problems 
 
@@ -43,13 +43,13 @@
 
    @ Modify In Linked Lists
 
-### Stacks & Queues 
+## Stacks & Queues 
 
    @ Implementation Bases Problems
 
    @ Application Based Problems
 
-### Binary Trees
+## Binary Trees
 
    @ Tree Traversal
 
@@ -59,7 +59,7 @@
 
    @ Standard Problems
 
-### BST
+## BST
 
    @ Construction of BST
 
@@ -69,7 +69,7 @@
 
    @ Standard Problems
 
-### Priority Queues And Heaps
+## Priority Queues And Heaps
 
    @ Implementation Based Problems
 
@@ -77,7 +77,7 @@
 
    @ K Based Problems
 
-### Graphs
+## Graphs
 
    @ Graph Traversals -BFS And DFS
 
@@ -89,7 +89,7 @@
 
    @ Graphs in Matrix 
 
-### Dynamic Programming 
+## Dynamic Programming 
 
    @ DP with Arrays
 
@@ -103,9 +103,9 @@
 
    @ Counting Based Problems
 
-### Hard Recursion And Backtracking Questions
+## Hard Recursion And Backtracking Questions
 
-### Other Topics
+## Other Topics
 
    @ Hashmaps
 
