@@ -3,124 +3,124 @@
 
 ### Arrays & Strings
 
-    @ Basic Array And Strings Questions
+   @ Basic Array And Strings Questions
 
-    @ Kadane's Algorithm
+   @ Kadane's Algorithm
 
-    @ Dutch National Flag Algorithm
+   @ Dutch National Flag Algorithm
 
-    @ Sliding Window
+   @ Sliding Window
 
-    @ Two pointers
+   @ Two pointers
 
 ### Multidimensional Arrays
 
-    @ Traversal Based Problems
+   @ Traversal Based Problems
 
-    @ Rotaion Based Problems
+   @ Rotaion Based Problems
 
 ### Recursion And Backtracking
 
-    @ Basic Recursion Questions
+   @ Basic Recursion Questions
 
-    @ Divide And Conquer
+   @ Divide And Conquer
 
 ### Sorting Algorithm
 
 ### Binary Search Applications 
 
-    @ Binary Search On Arrays
+   @ Binary Search On Arrays
 
-    @ Binary Search On Matrix
+   @ Binary Search On Matrix
 
 ### Linked Lists
 
-    @ Reversal Problems 
+   @ Reversal Problems 
 
-    @ Sorting Problems
+   @ Sorting Problems
 
-    @ Slow And Fast pointers
+   @ Slow And Fast pointers
 
-    @ Modify In Linked Lists
+   @ Modify In Linked Lists
 
 ### Stacks & Queues 
 
-    @ Implementation Bases Problems
+   @ Implementation Bases Problems
 
-    @ Application Based Problems
+   @ Application Based Problems
 
 ### Binary Trees
 
-    @ Tree Traversal
+   @ Tree Traversal
 
-    @ Construction of Trees
+   @ Construction of Trees
 
-    @ Tree Views
+   @ Tree Views
 
-    @ Standard Problems
+   @ Standard Problems
 
 ### BST
 
-    @ Construction of BST
+   @ Construction of BST
 
-    @ Conversion Based Problems
+   @ Conversion Based Problems
 
-    @ Modification in BST
+   @ Modification in BST
 
-    @ Standard Problems
+   @ Standard Problems
 
 ### Priority Queues And Heaps
 
-    @ Implementation Based Problems
+   @ Implementation Based Problems
 
-    @ Conversion based Problems
+   @ Conversion based Problems
 
-    @ K Based Problems
+   @ K Based Problems
 
 ### Graphs
 
-    @ Graph Traversals -BFS And DFS
+   @ Graph Traversals -BFS And DFS
 
-    @ MST
+   @ MST
 
-    @ Shortest Path Algorithms
+   @ Shortest Path Algorithms
 
-    @ Topological Sort
+   @ Topological Sort
 
-    @ Graphs in Matrix 
+   @ Graphs in Matrix 
 
 ### Dynamic Programming 
 
-    @ DP with Arrays
+   @ DP with Arrays
 
-    @ DP with Strings
+   @ DP with Strings
 
-    @ Dp with Maths 
+   @ Dp with Maths 
 
-    @ DP with Trees
+   @ DP with Trees
 
-    @ Breaking and Partition Based Problems
+   @ Breaking and Partition Based Problems
 
-    @ Counting Based Problems
+   @ Counting Based Problems
 
 ### Hard Recursion And Backtracking Questions
 
 ### Other Topics
 
-    @ Hashmaps
+   @ Hashmaps
 
-    @ Tries
+   @ Tries
 
-    @ Bit Manipulation
+   @ Bit Manipulation
 
-    @ Greedy 
+   @ Greedy 
 
-    @ Circular Queues
+   @ Circular Queues
 
-    @ Dequeues
+   @ Dequeues
 
-    @ Doubly And Circular LL
+   @ Doubly And Circular LL
 
-    @ String Algorithms like KMP and Z Algorithm
+   @ String Algorithms like KMP and Z Algorithm
 
 
