@@ -3,15 +3,15 @@
 
 ## Arrays & Strings
 
-   @ Basic Array And Strings Questions
+>@ Basic Array And Strings Questions
 
-   @ Kadane's Algorithm
+@ Kadane's Algorithm
 
-   @ Dutch National Flag Algorithm
+@ Dutch National Flag Algorithm
 
-   @ Sliding Window
+@ Sliding Window
 
-   @ Two pointers
+@ Two pointers
 
 ## Multidimensional Arrays
 
